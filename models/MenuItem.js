@@ -12,7 +12,7 @@ const menuItemSchema= new mongoose.Schema({
     taste:{
         type:String,
         enum:['Sweet','Spicy','Sour'],
-        required:true
+        required:true  
     },
     is_drink:{
         type:Boolean,

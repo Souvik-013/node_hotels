@@ -1,3 +1,4 @@
 # ignore modeule_directory
 node_modules/
+.env
 #Other Entries
